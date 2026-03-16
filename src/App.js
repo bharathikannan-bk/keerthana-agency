@@ -16,6 +16,7 @@ import "swiper/css";
 import "swiper/css/pagination";
 import About_View from "./view/about";
 import { HashRouter } from "react-router-dom";
+import PageNotFound from "./component/404";
 
 function App() {
   useEffect(() => {
@@ -29,6 +30,7 @@ function App() {
     <div className="App">
        <HashRouter>
         <Routes>
+          <Route path="*" element={<PageNotFound />} />
           <Route path="/" element={<Home_View />} />
           <Route path="/about-us" element={<About_View />} />
         </Routes>

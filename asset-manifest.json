@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/keerthana-agency/static/css/main.e5e3ac4d.css",
-    "main.js": "/keerthana-agency/static/js/main.0e0ac9b5.js",
+    "main.js": "/keerthana-agency/static/js/main.7c777cda.js",
     "static/js/453.4913f207.chunk.js": "/keerthana-agency/static/js/453.4913f207.chunk.js",
     "static/media/banner-img.jpg": "/keerthana-agency/static/media/banner-img.c399a4791c4a5349a6db.jpg",
     "static/media/bootstrap-icons.woff?": "/keerthana-agency/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
@@ -28,11 +28,11 @@
     "static/media/handshack.webp": "/keerthana-agency/static/media/handshack.84fb4db3a19fd721ee84.webp",
     "index.html": "/keerthana-agency/index.html",
     "main.e5e3ac4d.css.map": "/keerthana-agency/static/css/main.e5e3ac4d.css.map",
-    "main.0e0ac9b5.js.map": "/keerthana-agency/static/js/main.0e0ac9b5.js.map",
+    "main.7c777cda.js.map": "/keerthana-agency/static/js/main.7c777cda.js.map",
     "453.4913f207.chunk.js.map": "/keerthana-agency/static/js/453.4913f207.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5e3ac4d.css",
-    "static/js/main.0e0ac9b5.js"
+    "static/js/main.7c777cda.js"
   ]
 }

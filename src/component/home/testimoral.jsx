@@ -53,7 +53,7 @@ function Home_testimoral() {
                   <i class="bi bi-star-fill"></i>
                   <i class="bi bi-star-fill"></i>
                 </div>
-                <p>
+                <p className="text-justify">
                   <i class="bi bi-quote quote-icon-left"></i> I am very thankful
                   to this agency for helping me start my career in Dubai. The
                   whole process was very smooth and transparent. From document
@@ -79,7 +79,7 @@ function Home_testimoral() {
                   <i class="bi bi-star-fill"></i>
                   <i class="bi bi-star-fill"></i>
                 </div>
-                <p>
+                <p className="text-justify">
                   <i class="bi bi-quote quote-icon-left"></i> This agency
                   provided excellent guidance throughout my overseas job
                   process. They helped me prepare for the interview and handled
@@ -104,7 +104,7 @@ function Home_testimoral() {
                   <i class="bi bi-star-fill"></i>
                   <i class="bi bi-star-fill"></i>
                 </div>
-                <p>
+                <p className="text-justify">
                   <i class="bi bi-quote quote-icon-left"></i> I was searching
                   for an overseas job opportunity for a long time. Finally I
                   found this agency and it changed my life. They explained every
@@ -129,7 +129,7 @@ function Home_testimoral() {
                   <i class="bi bi-star-fill"></i>
                   <i class="bi bi-star-fill"></i>
                 </div>
-                <p>
+                <p className="text-justify">
                   <i class="bi bi-quote quote-icon-left"></i> My experience with
                   this recruitment agency has been amazing. They guided me from
                   the beginning until my departure. All the procedures were done
@@ -152,7 +152,7 @@ function Home_testimoral() {
                   <i class="bi bi-star-fill"></i>
                   <i class="bi bi-star-fill"></i>
                 </div>
-                <p>
+                <p className="text-justify">
                   <i class="bi bi-quote quote-icon-left"></i> I am very grateful
                   to this agency for helping me secure a hotel job in Singapore.
                   The process was quick and well organized. They supported me

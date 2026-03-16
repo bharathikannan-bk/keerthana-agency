@@ -25,14 +25,14 @@ function Home_AboutUs() {
               Trusted Overseas Recruitment Agency For International Job
               Opportunities
             </h3>
-            <p class="fst-italic">
+            <p class="fst-italic text-justify">
               Keerthana Agency is a professional overseas recruitment agency
               dedicated to helping job seekers find the best employment
               opportunities abroad. We connect skilled and talented candidates
               with trusted international employers across the Middle East,
               Europe, and other global destinations.
             </p>
-            <p>
+            <p className="text-justify">
               Our agency specializes in providing reliable manpower solutions
               for industries such as construction, hospitality, healthcare,
               manufacturing, and technical sectors. We guide candidates through

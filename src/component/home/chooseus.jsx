@@ -22,7 +22,7 @@ function Home_chooseus() {
               data-aos-delay="100"
             >
               <h3>Trusted Overseas Recruitment Agency</h3>
-              <p>
+              <p className="text-justify">
                 Keerthana Agency specializes in providing international job
                 opportunities for skilled and unskilled workers. We work with
                 reputable companies across countries such as Dubai, Qatar, Saudi
@@ -48,7 +48,7 @@ function Home_chooseus() {
                       Genuine Overseas Jobs
                     </a>
                   </h4>
-                  <p>
+                  <p className="text-justify">
                  We provide verified job opportunities with trusted international employers across multiple industries.
                   </p>
                 </div>
@@ -60,7 +60,7 @@ function Home_chooseus() {
                     Transparent Recruitment Process
                     </a>
                   </h4>
-                  <p>
+                  <p className="text-justify">
                     Our recruitment process is transparent, ethical, and follows proper international employment standards.
                   </p>
                 </div>
@@ -72,7 +72,7 @@ function Home_chooseus() {
                      Fast Job Placement
                     </a>
                   </h4>
-                  <p>
+                  <p className="text-justify">
                    We help candidates secure overseas jobs quickly through our strong employer network.
                   </p>
                 </div>
@@ -84,7 +84,7 @@ function Home_chooseus() {
                       Complete Visa Assistance
                     </a>
                   </h4>
-                  <p>
+                  <p className="text-justify">
                    Our team supports candidates with documentation, visa processing, and travel arrangements.
                   </p>
                 </div>

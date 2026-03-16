@@ -28,7 +28,7 @@ function Home_Service() {
                       Overseas Job Placement
                     </a>
                   </h4>
-                  <p class="description">
+                  <p class="description text-justify">
                     We help candidates find the best international job
                     opportunities by connecting them with trusted employers in
                     countries such as UAE, Qatar, Saudi Arabia, Kuwait, and
@@ -47,7 +47,7 @@ function Home_Service() {
                       Candidate Screening
                     </a>
                   </h4>
-                  <p class="description">
+                  <p class="description text-justify">
                     {" "}
                     Our recruitment team carefully screens and selects qualified
                     candidates based on skills, experience, and employer
@@ -67,7 +67,7 @@ function Home_Service() {
                       Documentation Support
                     </a>
                   </h4>
-                  <p class="description">
+                  <p class="description text-justify">
                     We assist candidates with all necessary documentation
                     including employment contracts, passport processing, and
                     other legal paperwork required for overseas jobs.
@@ -85,7 +85,7 @@ function Home_Service() {
                       Visa Assistance
                     </a>
                   </h4>
-                  <p class="description">
+                  <p class="description text-justify">
                     Keerthana Agency provides complete visa assistance to help
                     candidates travel abroad legally and safely for employment
                     opportunities in international companies.
@@ -103,7 +103,7 @@ function Home_Service() {
                       Interview Coordination
                     </a>
                   </h4>
-                  <p class="description">
+                  <p class="description text-justify">
                     We arrange interviews between employers and candidates
                     either online or offline to ensure a smooth recruitment
                     process and quick job placements.
@@ -121,7 +121,7 @@ function Home_Service() {
                       Travel & Pre-Departure Support
                     </a>
                   </h4>
-                  <p class="description">
+                  <p class="description text-justify">
                     Our agency provides travel arrangements and pre-departure
                     guidance to help candidates prepare for working and living
                     in foreign countries.

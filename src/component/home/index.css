@@ -1,0 +1,58 @@
+.aboutus-title h2 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    position: relative;
+    text-transform: uppercase;
+    display: inline;
+}
+
+.aboutus-title h2::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: var(--accent-color);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.aboutus-btn-view {
+    border: 1px solid var(--accent-color);
+    color: var(--accent-color);
+    padding: 3px 35px;
+    background-color: transparent;
+    border-radius: 30px;
+}
+
+.bg-img-handshack {
+    background-image: url("../../assets/img/new/handshack.webp");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.overlay-container-hand {
+    background-color: rgba(0, 0, 0, 0.37);
+    height: 400px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.overlay-hand-button {
+    background-color: transparent;
+    border: 0;
+    background-color: var(--accent-color);
+    padding: 3px 40px 5px 40px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+}

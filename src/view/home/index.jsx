@@ -1,5 +1,5 @@
 import React from "react";
-import { Helmet } from "react-helmet";
+// import { Helmet } from "react-helmet";
 import Home_Component from "../../component/home/banner";
 import Navbar from "../../shared/navbar";
 import Home_AboutUs from "../../component/home/aboutus";
@@ -12,9 +12,9 @@ import Footer from "../../shared/footer";
 function Home_View() {
   return (
     <>
-      <Helmet>
+      {/* <Helmet>
         <title>Home | Keerthana Agency</title>
-      </Helmet>
+      </Helmet> */}
       <Navbar />
       <main className="main">
         <Home_Component />
